@@ -1,0 +1,9 @@
+{
+  "name": "json_resume",
+  "version": "0.3.2",
+
+  "dependencies": {
+    "request": "*",
+    "mustache": "*"
+  }
+}
